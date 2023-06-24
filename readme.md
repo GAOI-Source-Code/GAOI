@@ -1,6 +1,7 @@
 # A Generative Adversarial Network for Outlier Interpretation
 
 Structure
+
 datasets: real-world datasets in csv format, the last column is label indicating each line is an outlier or inlier; ground_truth outlier interpretation annotations of real-world datasets.
 explainers: the generative component 
 models: the adversarial component
@@ -9,6 +10,7 @@ test_runner_independent.py: generate synthetic datasets
 test_runner_real.py: main script to run the experiments
 
 How to use?
+
 For GAOI
 1.modify variant dataset in argument_parser.py 
 2.According to dataset in argument_parser.py, modify g_truth_df in test_runner_real.py
@@ -17,6 +19,7 @@ For GAOI
 
 
 Requirements
+
 tensorflow 2.6.2
 numpy 1.19.5
 python 3.7.12
