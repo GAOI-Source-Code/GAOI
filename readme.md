@@ -1,4 +1,4 @@
-# A Generative Adversarial Network for Outlier Interpretation
+# Cross-preturbation on features for outlier interpretation
 
 Structure
 
@@ -16,7 +16,7 @@ test_runner_real.py: main script to run the experiments
 
 How to use?
 
-For GAOI
+For CPF
 
 1.modify variant dataset in argument_parser.py 
 
