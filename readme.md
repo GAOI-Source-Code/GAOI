@@ -1,4 +1,4 @@
-# Cross-preturbation on features for outlier interpretation
+# Where and How: Mining Convertible Outlying Aspect for Outlier Interpretation
 
 Structure
 
@@ -16,7 +16,7 @@ test_runner_real.py: main script to run the experiments
 
 How to use?
 
-For CPF
+For META
 
 1.modify variant dataset in argument_parser.py 
 
