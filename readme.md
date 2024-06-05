@@ -1,5 +1,7 @@
 # Where and How: Mining Convertible Outlying Aspect for Outlier Interpretation
 
+The source code of the proposed META will be publicly available upon acceptance.
+
 Structure
 
 datasets: real-world datasets in csv format, the last column is label indicating each line is an outlier or inlier; ground_truth outlier interpretation annotations of real-world datasets.
