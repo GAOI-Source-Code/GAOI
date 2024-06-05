@@ -1,6 +1,6 @@
 # Where and How: Mining Convertible Outlying Aspect for Outlier Interpretation
 
-The source code of the proposed META will be publicly available upon acceptance.
+GAOI/explainers/AETabularMM.py and  will be publicly available upon acceptance.
 
 Structure
 
