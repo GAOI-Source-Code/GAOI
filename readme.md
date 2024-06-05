@@ -1,6 +1,6 @@
 # Where and How: Mining Convertible Outlying Aspect for Outlier Interpretation
 
-GAOI/explainers/AETabularMM.py and  will be publicly available upon acceptance.
+GAOI/explainers/AETabularMM.py and GAOI/explainers/MaskingModelExplainer.py will be publicly available upon acceptance.
 
 Structure
 
