@@ -1,6 +1,6 @@
 # Where and How: Mining Convertible Outlying Aspect for Outlier Interpretation
 
-GAOI/explainers/AETabularMM.py and GAOI/explainers/MaskingModelExplainer.py will be publicly available upon acceptance.
+Since GAOI/explainers/AETabularMM.py and GAOI/explainers/MaskingModelExplainer.py are the core code of the META model, if this paper is lucky enough to be accepted, we will publicly release it upon acceptance.
 
 # Structure
 
