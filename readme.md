@@ -2,7 +2,7 @@
 
 GAOI/explainers/AETabularMM.py and GAOI/explainers/MaskingModelExplainer.py will be publicly available upon acceptance.
 
-Structure
+# Structure
 
 datasets: real-world datasets in csv format, the last column is label indicating each line is an outlier or inlier; ground_truth outlier interpretation annotations of real-world datasets.
 
@@ -16,7 +16,7 @@ test_runner_independent.py: generate synthetic datasets
 
 test_runner_real.py: main script to run the experiments
 
-How to use?
+# How to use?
 
 For META
 
@@ -29,7 +29,7 @@ For META
 4.the results can be found in test/logs folder
 
 
-Requirements
+# Requirements
 
 tensorflow 2.6.2
 
